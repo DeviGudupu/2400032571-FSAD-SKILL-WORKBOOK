@@ -1,10 +1,10 @@
-package com.klu.studentapi;
+package com.klu;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class BackendApplicationTests {
+class Skill12ApplicationTests {
 
 	@Test
 	void contextLoads() {
